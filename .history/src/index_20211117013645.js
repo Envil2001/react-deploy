@@ -8,8 +8,8 @@ import {store} from './store/index';
 import './FIREBASE';
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename="/react-deploy">
-      <Provider store={store}>
+    <Router>
+      <Provider store={store} basename="/react-deploy">
         <App />
       </Provider>
     </Router>
