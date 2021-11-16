@@ -1,0 +1,148 @@
+const tovar = [
+    {
+        id: 1,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 83,
+        available: 13,
+        cost: 190789,
+    },
+    {
+        id: 2,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 73,
+        available: 5,
+        cost: 1989,
+    },
+    {
+        id: 3,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 73,
+        available: 5,
+        cost: 1989,
+    },
+    {
+        id: 4,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 73,
+        available: 5,
+        cost: 1989,
+    },
+    {
+        id: 5,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 83,
+        available: 13,
+        cost: 190789,
+    },
+    {
+        id: 6,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 73,
+        available: 5,
+        cost: 1989,
+    },
+    {
+        id: 7,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 73,
+        available: 5,
+        cost: 1989,
+    },
+    {
+        id: 8,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 73,
+        available: 5,
+        cost: 1989,
+    },
+    {
+        id: 9,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 83,
+        available: 13,
+        cost: 190789,
+    },
+    {
+        id: 10,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 73,
+        available: 5,
+        cost: 1989,
+    },
+    {
+        id: 11,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 73,
+        available: 5,
+        cost: 1989,
+    },
+    {
+        id: 12,
+        image: [
+            'https://content1.rozetka.com.ua/goods/images/big/144249716.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249735.jpg',
+            'https://content1.rozetka.com.ua/goods/images/big/144249755.jpg',
+        ],
+        title: 'Ноутбук Apple MacBook Pro 16 TB i7 2.6/16/512 SSD SG MVVJ2RU/A',
+        testimonials: 73,
+        available: 5,
+        cost: 1989,
+    },
+]
+
+export default tovar;
