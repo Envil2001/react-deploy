@@ -113,7 +113,7 @@ const ShopContent = () => {
             />
             <div className="container">
             <Routes>
-                <Route exact path="/products" element={
+                <Route exact path="/" element={
                     <div className={styles.grid_contain}>
                         <div className={styles.filters}>
                             <div className={styles.rr}>
