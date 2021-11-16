@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: var(--color-dark);
+  background: var(--white);
   transition: background 0.2s ease;
 }
 
