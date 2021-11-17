@@ -98,6 +98,7 @@ const ShopContent = () => {
     })
 
         return (
+          <>
           <AppContext.Provider
             value={{
                 items,
@@ -147,6 +148,7 @@ const ShopContent = () => {
             </Routes> 
             </div>
           </AppContext.Provider>
+          </>
         )
     }
 
