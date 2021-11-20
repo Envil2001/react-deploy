@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.8be90a3f.chunk.css",
-    "main.js": "/react-deploy/static/js/main.1298e327.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.1298e327.chunk.js.map",
-    "runtime-main.js": "/react-deploy/static/js/runtime-main.a32e66ee.js",
-    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.a32e66ee.js.map",
-    "static/js/2.89a47658.chunk.js": "/react-deploy/static/js/2.89a47658.chunk.js",
-    "static/js/2.89a47658.chunk.js.map": "/react-deploy/static/js/2.89a47658.chunk.js.map",
-    "index.html": "/react-deploy/index.html",
-    "static/css/main.8be90a3f.chunk.css.map": "/react-deploy/static/css/main.8be90a3f.chunk.css.map",
-    "static/js/2.89a47658.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.89a47658.chunk.js.LICENSE.txt"
+    "main.css": "/Envil2001/react-deploy/static/css/main.7a4ea7a0.chunk.css",
+    "main.js": "/Envil2001/react-deploy/static/js/main.ed8b1076.chunk.js",
+    "main.js.map": "/Envil2001/react-deploy/static/js/main.ed8b1076.chunk.js.map",
+    "runtime-main.js": "/Envil2001/react-deploy/static/js/runtime-main.b04425bf.js",
+    "runtime-main.js.map": "/Envil2001/react-deploy/static/js/runtime-main.b04425bf.js.map",
+    "static/js/2.d3f40cdb.chunk.js": "/Envil2001/react-deploy/static/js/2.d3f40cdb.chunk.js",
+    "static/js/2.d3f40cdb.chunk.js.map": "/Envil2001/react-deploy/static/js/2.d3f40cdb.chunk.js.map",
+    "index.html": "/Envil2001/react-deploy/index.html",
+    "static/css/main.7a4ea7a0.chunk.css.map": "/Envil2001/react-deploy/static/css/main.7a4ea7a0.chunk.css.map",
+    "static/js/2.d3f40cdb.chunk.js.LICENSE.txt": "/Envil2001/react-deploy/static/js/2.d3f40cdb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a32e66ee.js",
-    "static/js/2.89a47658.chunk.js",
-    "static/css/main.8be90a3f.chunk.css",
-    "static/js/main.1298e327.chunk.js"
+    "static/js/runtime-main.b04425bf.js",
+    "static/js/2.d3f40cdb.chunk.js",
+    "static/css/main.7a4ea7a0.chunk.css",
+    "static/js/main.ed8b1076.chunk.js"
   ]
 }
